@@ -1,1 +1,0 @@
-http://gdata.youtube.com/feeds/api/videos?q=[TERM_HERE]&alt=json

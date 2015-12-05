@@ -1,7 +1,7 @@
 {
-  "name": "immutube",
+  "name": "immutube2",
   "version": "0.0.0",
-  "homepage": "http://github.com/begriffs/immutube",
+  "homepage": "https://github.com/artemruts/immutube2",
   "private": false,
   "dependencies": {
     "requirejs": "latest",
