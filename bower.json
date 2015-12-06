@@ -1,12 +1,12 @@
 {
   "name": "immutube2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/artemruts/immutube2",
   "private": false,
   "dependencies": {
     "requirejs": "latest",
     "jquery": "2.1.0",
-    "lodash": "~2.4",
+    "ramda": "latest",
     "bacon": "latest",
     "pointfree": "DrBoolean/pointfree-fantasy"
   },
